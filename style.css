@@ -3,7 +3,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  background-color: #011545;
+  background-color: #11327d;
   color: white;
 }
 
@@ -20,13 +20,29 @@ h3 {
 }
 
 .description_title {
-    font-size: 50px;
-    margin-left: 56px;
-    margin-top: 86px; 
+    font-size: 70px;
+    margin-left: 175px;
+    margin-top: 74px; 
+    margin-bottom: 0px;
+    padding-bottom: 31px;
 }
 
 .description {
-    margin-left: 56px;
-    font-size: 20px;
+    margin-left: 175px;
+    font-size: 30px;
     margin-top: -30px;
+    padding-top: 15px;
 }
+
+#description_divider {
+    margin-top: -25px;
+    border: solid 3px white;
+    margin-left: 175px;
+    width: 575px;
+}
+
+#title_divider {
+    margin-top: -30px;
+    border: solid 2px white;
+}
+
