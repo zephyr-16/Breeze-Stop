@@ -9,8 +9,7 @@ body {
 
 h1 {
     font-size: 60px;
-    margin-top: 16px;
-    margin-left: 16px
+    border: solid 10px #17218b;
 }
 
 h3 {
@@ -41,8 +40,4 @@ h3 {
     width: 575px;
 }
 
-#title_divider {
-    margin-top: -30px;
-    border: solid 2px white;
-}
 
