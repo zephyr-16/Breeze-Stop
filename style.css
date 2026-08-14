@@ -3,7 +3,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  background-color: #11327d;
+  background-color: #29304a;
   color: white;
 }
 
@@ -50,4 +50,89 @@ h4 {
     font-size: 45px;
     text-align: center;
     
+}
+
+.container1 {
+  height: 410px;
+  width: 250px;
+  background-color: #3c476e;
+  border: solid 3px white;
+  border-radius: 45px
+}
+
+.container2 {
+  height: 200px;
+  width: 250px;
+  background-color: #3c476e;
+  border: solid 3px white;
+  border-radius: 45px
+}
+
+.container3 {
+  height: 200px;
+  width: 450px;
+  background-color: #3c476e;
+  border: solid 3px white;
+  border-radius: 45px
+}
+
+.container4 {
+  height: 200px;
+  width: 450px;
+  background-color: #3c476e;
+  border: solid 3px white;
+  border-radius: 45px;
+  margin-top: -180px;
+}
+
+.container5 {
+  height: 200px;
+  width: 250px;
+  background-color: #3c476e;
+  border: solid 3px white;
+  border-radius: 45px;
+  margin-top: -180px;
+}
+
+
+.top-containers {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* You can adjust the space between the containers */
+  margin-top: 40px;
+}
+
+.bottom-containers {
+  display: flex;
+  justify-content: center;
+  margin-left: 280px;
+  gap: 20px; /* You can adjust the space between the containers */
+}
+
+#contact {
+    font-size: 60px;
+    margin-left: 175px;
+    margin-top: 74px; 
+    margin-bottom: 30px;
+}
+
+#contact-description {
+    font-size: 30px;
+    margin-left: 175px;
+    margin-top: 12px;
+}
+
+.github_logo {
+    margin-left: 850px;
+    width: 300px;
+    height: 300px;
+    margin-top: -400px;
+    margin-bottom: 40px;
+}
+
+.github_link {
+    margin-left: 175px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: white;
 }
