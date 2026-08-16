@@ -9,6 +9,8 @@ _If you want to add games, we would need to finish the designing and structure o
 
 # Requests 🔔📆
 
-If you would be able to find us some images, like illustrations next to descriptions. We would also appreciate a logo if anyone is creative, or good at designing we would like that. _*Note: That it is modern. In a 2 colour scheme (Purple and Red for example). In a shape form and flat (No 3D effects)._
+We would request illustrations next to descriptions. This would be perfect for creative or people who are good at designing. 
 
 Thank you for reading! :)
+
+©Breeze Stop 2026
