@@ -8,11 +8,6 @@ body {
   margin: 0px;
 }
 
-h1 {
-    font-size: 60px;
-    margin-top: 16px;
-    margin-left: 16px
-}
 
 h3 {
     font-size: 30px;
@@ -144,7 +139,7 @@ h4 {
   align-items: center;
   background-color: #3c476e;
   color: white;
-  padding: 20px 30px 20px 30px;
+  padding: 0 30px 0 30px;
 }
 
 .nav_links {
@@ -153,6 +148,7 @@ h4 {
   gap: 25px;
   margin: 0;
   padding: 0;
+  font-size: 30px;
 }
 
 .nav_links a {
@@ -162,4 +158,17 @@ h4 {
 
 .nav_links a:hover {
   color: lightskyblue;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.logo {
+    margin-left: 800px;
+    width: 35%;
+    height: 45%;
+    margin-top: -500px;
+    margin-bottom: 40px;
+    color: white;
 }
