@@ -13,4 +13,4 @@ We would request illustrations next to descriptions. This would be perfect for c
 
 Thank you for reading! :)
 
-©Breeze Stop 2026
+©BreezeStop 2026
