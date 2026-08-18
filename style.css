@@ -103,6 +103,11 @@ h4 {
   color: lightskyblue;
 }
 
+.game-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 h1 {
   font-size: 50px;
 }
