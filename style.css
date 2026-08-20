@@ -9,74 +9,6 @@ body {
   margin: 0px;
 }
 
-
-h3 {
-    font-size: 30px;
-    margin-top: -40px;
-    margin-left: 16px;
-}
-
-.description_title {
-    font-size: 70px;
-    margin-left: 175px;
-    margin-top: 74px; 
-    margin-bottom: 0px;
-    padding-bottom: 31px;
-}
-
-.description {
-    margin-left: 175px;
-    font-size: 30px;
-    margin-top: -30px;
-    padding-top: 15px;
-}
-
-#description_divider {
-    margin-top: -25px;
-    border: solid 3px white;
-    margin-left: 175px;
-    width: 575px;
-}
-
-#title_divider {
-    margin-top: -30px;
-    border: solid 2px white;
-}
-
-h4 {
-    font-size: 45px;
-    text-align: center;
-    
-}
-
-#contact {
-    font-size: 60px;
-    margin-left: 175px;
-    margin-top: 74px; 
-    margin-bottom: 30px;
-}
-
-#contact-description {
-    font-size: 30px;
-    margin-left: 175px;
-    margin-top: 12px;
-}
-
-.github_logo {
-    margin-left: 850px;
-    width: 300px;
-    height: 300px;
-    margin-top: -400px;
-    margin-bottom: 40px;
-}
-
-.github_link {
-    margin-left: 175px;
-    font-size: 30px;
-    margin-bottom: 10px;
-    color: white;
-}
-
 .nav_bar {
   display: flex;
   justify-content: space-between;
@@ -114,6 +46,65 @@ h4 {
 h1 {
   font-size: 40px;
 }
+
+.description_title {
+    font-size: 70px;
+    margin-left: 175px;
+    margin-top: 74px; 
+    margin-bottom: 0px;
+    padding-bottom: 31px;
+}
+
+.description {
+    margin-left: 175px;
+    font-size: 30px;
+    margin-top: -30px;
+    padding-top: 15px;
+}
+
+#description_divider {
+    margin-top: -25px;
+    border: solid 3px white;
+    margin-left: 175px;
+    width: 575px;
+}
+
+
+#featured {
+    font-size: 45px;
+    text-align: center;
+    
+}
+
+#contact {
+    font-size: 60px;
+    margin-left: 175px;
+    margin-top: 74px; 
+    margin-bottom: 30px;
+}
+
+#contact-description {
+    font-size: 30px;
+    margin-left: 175px;
+    margin-top: 12px;
+}
+
+.github_logo {
+    margin-left: 850px;
+    width: 300px;
+    height: 300px;
+    margin-top: -400px;
+    margin-bottom: 40px;
+}
+
+.github_link {
+    margin-left: 175px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+
 
 .logo {
     margin-left: 800px;
