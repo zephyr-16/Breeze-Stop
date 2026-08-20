@@ -76,47 +76,6 @@ h1 {
     
 }
 
-#contact {
-    font-size: 60px;
-    margin-left: 175px;
-    margin-top: 74px; 
-    margin-bottom: 30px;
-}
-
-#contact-description {
-    font-size: 30px;
-    margin-left: 175px;
-    margin-top: 12px;
-}
-
-.github_logo {
-    margin-left: 850px;
-    width: 300px;
-    height: 300px;
-    margin-top: -400px;
-    margin-bottom: 40px;
-}
-
-.github_link {
-    margin-left: 175px;
-    font-size: 30px;
-    margin-bottom: 10px;
-    color: white;
-}
-
-
-
-.logo {
-    margin-left: 800px;
-    width: 35%;
-    height: 45%;
-    margin-top: -500px;
-    margin-bottom: 40px;
-    color: white;
-}
-
-
-
 h5, h6 {
   font-size: 30px;
   text-align: left;
@@ -155,4 +114,4 @@ h5, h6 {
   background: linear-gradient(83deg, rgba(40, 2, 105, 1) 0%, rgba(14, 2, 38, 1) 100%);
   border-radius: 90px;
   margin-left: 75px;
-}
+
