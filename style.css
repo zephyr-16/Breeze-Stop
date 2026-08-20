@@ -3,7 +3,8 @@ body {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  background-color: #29304a;
+  background: #27114a;
+  background: linear-gradient(146deg,rgba(39, 17, 74, 1) 0%, rgba(53, 0, 168, 1) 100%);
   color: white;
   margin: 0px;
 }
@@ -80,9 +81,11 @@ h4 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #3c476e;
+  background: #180b2e;
+  background: linear-gradient(83deg,rgba(24, 11, 46, 1) 0%, rgba(40, 2, 122, 1) 98%, rgba(53, 0, 168, 1) 100%);
   color: white;
   padding: 0 30px 0 30px;
+  border-bottom: solid 3px black;
 }
 
 .nav_links {
@@ -109,7 +112,7 @@ h4 {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .logo {
