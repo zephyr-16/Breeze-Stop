@@ -3,8 +3,8 @@ body {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  background: #27114a;
-  background: linear-gradient(146deg,rgba(39, 17, 74, 1) 0%, rgba(53, 0, 168, 1) 100%);
+  background: #230557;
+  background: linear-gradient(304deg, rgba(35, 5, 87, 1) 0%, rgba(14, 2, 38, 1) 100%);
   color: white;
   margin: 0px;
 }
@@ -149,7 +149,8 @@ h5, h6 {
   margin-top: 20px;
   width: 1200px;
   border: solid 5px black;
-  background-color: #3c476e;
+  background: #280269;
+  background: linear-gradient(83deg, rgba(40, 2, 105, 1) 0%, rgba(14, 2, 38, 1) 100%);
   border-radius: 90px;
   margin-left: 75px;
 }
@@ -159,7 +160,8 @@ h5, h6 {
   margin-top: 20px;
   width: 1200px;
   border: solid 5px black;
-  background-color: #3c476e;
+  background: #280269;
+  background: linear-gradient(83deg, rgba(40, 2, 105, 1) 0%, rgba(14, 2, 38, 1) 100%);
   border-radius: 90px;
   margin-left: 75px;
 }
